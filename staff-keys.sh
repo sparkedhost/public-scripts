@@ -19,6 +19,8 @@ declare -A KEYS=(
   ["cayden.d@sparkedhost.com"]="ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGIF7X1txYpc76DCVzUML1BMa72JoYytVGwb5TFmRyAn cayden.d@sparkedhost.com"
   ["SagnikS-WS"]="ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGw007yWB3af3H2ZyXj59ki5+tZIki6iaFScBqWMb7cn SagnikS-WS"
   ["matt.w@sparkedhost.com"]="ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKwQ7rN1PpoRF4u7iY0h8yE0LH8ptK3/lM8/qkasf8ek matt.w@sparkedhost.com"
+  ["me@linux123123.com"]="ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKvGvC5G8+KBka/3SCB0P8yADGVm/N/iCvBJJBF99Uhc me@linux123123.com"
+
 )
 
 added=0
